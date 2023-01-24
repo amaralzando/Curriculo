@@ -1,0 +1,49 @@
+.titulo {
+    color: green;
+    text-align: center;
+}
+
+.ParteSup {
+    
+}
+
+.meuDados {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    background-color: #4f81bc;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    width: 250px;
+    margin: 10px;
+}
+
+.imagem3x4, .imgQrcode, .meuDados{
+    display: inline-block;
+}
+
+.imgQrcode {
+    width: auto;
+    height: auto;
+}
+
+.imagem3x4 {
+    width: auto;
+    height: auto;
+}
+
+.paragrafoTesteSoma {
+    color: white;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    padding: 4px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center; 
+}
